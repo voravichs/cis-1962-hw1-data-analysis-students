@@ -1,3 +1,9 @@
+/**
+ * You may use this file to test your code from analysis.js.
+ * Do NOT modify this file whatsoever.
+ * Make sure all your code passes the tests, as all these tests will be run for grading!
+ */
+
 const assert = require('assert');
 const { 
     parseData,

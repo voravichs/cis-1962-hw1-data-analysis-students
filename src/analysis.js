@@ -56,7 +56,7 @@ function sentimentAnalysisApp(cleaned) {}
  *      in a new property called "sentiment".
  *      Add objects containing the sentiments for each language into an array.
  * @param {Object} cleaned - the cleaned csv data
- * @returns {{lang_name: string, positive: number, neutral: number, negative: number}[]} - An array of objects, each summarizing sentiment counts for a language
+ * @returns {{review_language: string, positive: number, neutral: number, negative: number}[]} - An array of objects, each summarizing sentiment counts for a language
  */
 function sentimentAnalysisLang(cleaned) {}
 
